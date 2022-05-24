@@ -4,7 +4,7 @@
 
 Progression Ministry is a combination of three of my mods originally made in v5:
 - Ohno Missiles
-- Extra Sand in the Sandbox
+- Extra Sand in the Sandboxeee
 - Progressed Materials
 
 Most of the content in this mod is just experimental turrets. They probably aren't balanced, and are just me trying out various ideas.
